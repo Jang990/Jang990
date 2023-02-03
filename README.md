@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </p>
 
-<br>
-
 ## Contact & Channels
 📫Email: sdsd090811@gmail.com <br>
 📢Blog: https://velog.io/@sdsd0908

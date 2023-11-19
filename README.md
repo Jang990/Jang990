@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-F80000?style=flat&logo=JPA&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white" />
 </p>
 
 <h4>최근 접하고 있는 기술</h4>
